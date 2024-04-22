@@ -1,3 +1,3 @@
-# tic_tac_toe
+# Tic Tac Toe
 - simple tic tac toe game with gui
 - lines of code: 52
